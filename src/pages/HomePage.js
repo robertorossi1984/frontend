@@ -1,10 +1,11 @@
 import React from "react";
+import '../styles/componets/pages/HomePage.css';
 const HomePage = (props) => {
     return (
         <div>homePage
             <main className="holder">
                 <div className="homeimg">
-                    <img src="images/home/img01.jpg" alt="avion" />
+                    <img src="images/galeria/img01.jpg" alt="avion" />
 
                 </div>
                 <div className="columnas">

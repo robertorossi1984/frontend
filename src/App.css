@@ -32,7 +32,25 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  font-family: 'Opens Sans', sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+
+}
+.holder{
+  width: 960px;
+  margin: 0 auto;
+
+}
+h2{
+  font-weight: 400;
+  color: #2e64a1;
+  margin: 0 0 1em;
 }

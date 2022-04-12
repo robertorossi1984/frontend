@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles/componets/pages/ContactoPage.css'
 const ContactoPage = (props) => {
     return (
         <div>
